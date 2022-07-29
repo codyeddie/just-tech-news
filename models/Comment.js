@@ -31,8 +31,8 @@ Comment.init(
         model: 'post',
         key: 'id'
       }
-    } 
-  }, 
+    }
+  },
   {
     sequelize,
     freezeTableName: true,
